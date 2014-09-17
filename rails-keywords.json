@@ -11,7 +11,13 @@
             "root",
             "VERIFY_NONE",
             "PermitRootLogin",
-            "\beval\b"
+            "[_\b]eval\b",
+            "[_\b]exec\b",
+            "[_\b]send\b",
+            "\bsystem\b",
+            "%x",
+            "\bfork\b",
+            "\bspawn\b"
         ],
     "author": [],
     "diff": [],
