@@ -1,0 +1,19 @@
+{
+    "keyword": [
+            "/tmp",
+            "secret",
+            "password",
+            "passwd",
+            "token",
+            "oauth",
+            "salt", 
+            "openssl",
+            "root",
+            "VERIFY_NONE",
+            "PermitRootLogin",
+            "\beval\b"
+        ],
+    "author": [],
+    "diff": [],
+    "case_insensitive": true
+}
